@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{F8432493-5211-49B6-BC00-1FF3EC0BC869}|http">
+  <MonoDevelop.Ide.ItemProperties.BlazorApp PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
