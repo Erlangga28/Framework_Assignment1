@@ -6,4 +6,6 @@ public partial class DateTime : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    public DateTime Now { get; internal set; }
 }

@@ -28,6 +28,8 @@ namespace BindingSVMM
 
                 new DataModel(typeof(ClockPage),"Clock", "Dynamically display current time"),
 
+                new DataModel(typeof(HSLColorScrollPage),"Color", "Configuration the color"),
+
                 new DataModel(typeof(Information),"Information", "Information About ME!"),
 
             };
