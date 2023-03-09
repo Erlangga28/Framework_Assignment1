@@ -30,7 +30,9 @@ namespace BindingSVMM
 
                 new DataModel(typeof(HSLColorScrollPage),"Color", "Configuration the color"),
 
-                new DataModel(typeof(Information),"Information", "Information About ME!"),
+                new DataModel(typeof(KeypadPage),"Keypad", "Keypad Number"),
+
+                new DataModel(typeof(Account),"Account", "About this account"),
 
             };
         }
