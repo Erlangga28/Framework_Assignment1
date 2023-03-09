@@ -15,7 +15,7 @@ public partial class MainPage : ContentPage
         if (args.SelectedItem != null)
         {
             DataModel DataHal = args.SelectedItem as DataModel;
-            Page Halaman = (Page)Activator.CreateInstance(DataHal.Type);
+            Page Halaman = (Page)Activator.CreateInstance(DataHal.Data);
             await Navigation.PushAsync(Halaman);
         }
     }

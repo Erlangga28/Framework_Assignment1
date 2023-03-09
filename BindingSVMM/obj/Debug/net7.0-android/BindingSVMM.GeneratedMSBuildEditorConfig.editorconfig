@@ -38,6 +38,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.Resources.Styl
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
 
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/ViewModel/AccountPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.ViewModel.AccountPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModel/AccountPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModel/AccountPage.xaml
+
 [/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/ViewModel/ClockPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.ViewModel.ClockPage.xaml

@@ -6,14 +6,14 @@ namespace BindingSVMM
     {
         public DataModel(Type type, string title, string description)
         {
-            Type = type;
-            Title = title;
+            Data = type;
+            Name = title;
             Description = description;
         }
 
-        public Type Type { private set; get; }
+        public Type Data { private set; get; }
 
-        public string Title { private set; get; }
+        public string Name { private set; get; }
 
         public string Description { private set; get; }
 
@@ -32,7 +32,7 @@ namespace BindingSVMM
 
                 new DataModel(typeof(KeypadPage),"Keypad", "Keypad Number"),
 
-                new DataModel(typeof(Account),"Account", "About this account"),
+                new DataModel(typeof(AccountPage),"Account", "About this account"),
 
             };
         }
