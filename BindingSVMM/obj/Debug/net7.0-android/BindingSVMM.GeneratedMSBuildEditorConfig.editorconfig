@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BindingSVMM
+build_property.ProjectDir = /Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/ViewModel/ClockPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.ViewModel.ClockPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModel/ClockPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModel/ClockPage.xaml
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/ViewModel/DateTime.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.ViewModel.DateTime.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModel/DateTime.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModel/DateTime.xaml
+
+[/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/ViewModel/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BindingSVMM.ViewModel.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModel/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModel/MainPage.xaml

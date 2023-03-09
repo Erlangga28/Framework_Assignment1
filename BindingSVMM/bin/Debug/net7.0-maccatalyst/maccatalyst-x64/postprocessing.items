@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BindingSVMM.app/Contents/MacOS/BindingSVMM">
+      <BCSymbolMapName>BindingSVMM.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BindingSVMM.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>BindingSVMM.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/erlanggawahyu/Projects/BindingSVMM/BindingSVMM</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
